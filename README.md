@@ -54,7 +54,7 @@ Run the app:
 streamlit run myapp.py
 
 ```
-![Alt text](images/Capture.png)
+![Alt text](images/Capture.PNG)
 
 💬 Sample Questions
 What are the top 5 product categories by sales?
