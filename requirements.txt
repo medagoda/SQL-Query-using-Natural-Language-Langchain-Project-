@@ -3,3 +3,4 @@ openai
 sqlalchemy
 streamlit
 langchain_google_genai
+langchain_community
